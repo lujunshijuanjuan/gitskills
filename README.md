@@ -1,1 +1,6 @@
 # gitskills
+
+git great!
+
+
+second
