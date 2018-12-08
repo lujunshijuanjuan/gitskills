@@ -23,5 +23,7 @@ bug fix three
 added this line from branch feature 1
 
 
+clone first
+
 git is a free software...
 
